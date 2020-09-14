@@ -1,6 +1,6 @@
 # Wealthfront Inc Case Study
 
-## Overwiew and Orign
+## Overwiew and Origin
 Wealthfront Inc
 
 
