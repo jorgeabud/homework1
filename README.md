@@ -57,4 +57,9 @@ Wealthfront has the advantage in that they are already thinking about Socially R
 * <https://my.apps.factset.com/viewer/?_doc_id=202009020859pr_news_uspr_____sf13340&_doc_date=20200902&_doc_product=PRN&_doc_docfn=U2FsdGVkX1%2BMCD4Sw2ASvthNkEd4ActERkjmvxlOSZx90kDGonhAeVVzhp0fUizx4aD5bztrxCN7Ejr37Dq5q7RmHvkimX03tA90dajgYJi1GOk8UNbMDvO9Xo7SFJLP&_doc_title=Wealthfront%20Launches%20First%20Self-Driving%20Money%E2%84%A2%20Service&_app_id=CSINews&_appSesGUID=2c0f143c7cb3-6ce5-9879-5488-bc201600128035011>
 * <https://www.roboadvisorpros.com/wealthfront-vs-vanguard-which-robo-advisor-best/>
 * <https://www.bloomberg.com/news/articles/2020-03-30/robo-advisers-gain-new-younger-clients-amid-market-turmoil>
+* <https://www.wealthfront.com/historical-performance>
+* <https://www.bloomberg.com/profile/company/0276674D:US>
+* <https://www.nerdwallet.com/blog/investing/wealthfront-vs-betterment/>
+* <https://www.investopedia.com/tech/how-fintech-disrupting-wealth-management/>
+
 
