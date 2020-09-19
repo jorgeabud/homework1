@@ -19,7 +19,7 @@ Wealthfront is a next-gen banking service that helps in managing the money for b
 
 The intended customer for the company is anyone that wants to invest their money for retirment, college fund, or just wants to diversify their portofolio. But do not have the time to manage their portfolio daily lack the expertise, or just want to simplify the process without having to pay high management fees. However, one disadvantage that Wealthfront when compared to other companies that provide the same services is that they do not offer fractional shares of ETSs, which prevents the company from investing you entire deposit. It also maintains a cash balance equal to the fees you’re projected to owe over the next year, so accounts are likely to experience a small level of cash drag.
 
-Machine Learning Wealthfront offers daily tax-loss harvesting on all taxable accounts. New clients who transfer in assets may benefit from its Tax-Minimized Brokerage Account Transfer service. That service incorporates existing investments into the Wealthfront portfolio where possible and holds transferred securities that can’t be incorporated until capital gains become long-term. Wealthfront will benefit anyone who wants frequent tax-loss harvesting. Wealthfront’s daily tax-loss harvesting offering is much more frequent than other robos on the market.
+Machine Learning allows Wealthfront to offer daily tax-loss harvesting on all taxable accounts. New clients who transfer in assets may benefit from its Tax-Minimized Brokerage Account Transfer service. That service incorporates existing investments into the Wealthfront portfolio where possible and holds transferred securities that can’t be incorporated until capital gains become long-term. Wealthfront will benefit anyone who wants frequent tax-loss harvesting. Wealthfront’s daily tax-loss harvesting offering is much more frequent than other robos on the market.
 
 Wealthfront launched an exciting new service called Autopilot that automates a client's savings plan so they no longer need to manually monitor accounts and move money around. This is a huge milestone toward Wealthfront's ultimate goal of delivering a nextgen banking service that fully automates their clients' finances, or what they refer to as Self-Driving Money.
 
@@ -27,11 +27,9 @@ Wealthfront launched an exciting new service called Autopilot that automates a c
 Robo Advisors & Personal Finance.
 Industry Asset Management and SUB-Industry Wealth Management
 
-Robo advisors and personal finance companies provide wealth management, investment, and budgetary services that seek to help customers with their overall capital management and investments.
+Robo advisors and personal finance companies provide wealth management, investment, and budgetary services that seek to help customers with their overall capital management and investments. The paradigm of investments and technology has shifted towards the innovative Fintech wealth management firms. Use of the modern technology such as machine learning and AI has opened new horizons for banking services; the autonomy of technology has led to increased independence of choices for the consumers. Thus offering all the characteristics of high yield profitability, innovation, and autonomy of investment options. Furthermore, the shifts in mobile technology over the past decade have allowed most people to have access to technology during their daily lives. Which in turn raised new interest for companies to provide investing platforms that are acccesible and easy to use for anyone with the use of a phone. 
 
-Wealth management solutions are often driven by machine learning with automated trading and portfolio rebalancing. Budgetary service utilize machine learning to scan a customer’s purchase history and identify buying habits to suggest areas in which they can s
-
-Wealthfront competitors include companies like Acorns, Betterment, Vanguard, and Financial Engines
+Wealthfront competitors include companies like Acorns, Betterment, Vanguard, and Financial Engines.
 
 ## Results
 Automated accounts are generally cheaper because they use computer algorithms rather than human money managers.Wealthfront investment has been increasingly popular among young investors. Wealthfront reported that account signups are about 68% higher since stocks declined in early march as people look to grow their savings before retirement. Wealthfront said its average customer age is 32.
@@ -46,7 +44,7 @@ Wealthfront has an advantage over Betterment, as Wealthfront is the only robo-ad
 Wealthfront offers Socially Responsible Investing but only through their Smart Beta option requires minimum investment of $500,000. The world is changing, and a strategy which seeks to consider both financial return and social/environmental good to bring about social change are regarded as positive by proponents. Betterment offers this service for everyone not only to people with large portfolios.
 They could also reduce fees for people with higher portfolios.
 
-The world i rapidly changing, and before people were only interested about making money. Now the way that their money is made is a concern for investors especially for millenials. Therefore, in order to not loose market share and remain competitive for years to come, Wealthfront has to consider the pros and cons of implementing this feature to be available for everyone. 
+The world is rapidly changing, and before people were only interested in making money. Now the way that their money is made is a concern for investors especially for millenials. Therefore, in order to not loose market share and remain competitive for years to come, Wealthfront has to consider the pros and cons of implementing this feature to be available for everyone. 
 
 Wealthfront has the advantage in that they are already thinking about Socially Responsible Investing, now they just have to make it available to younger people who are the most impacted by the new changing world. Young investors who make up most of Wealthfront's customers do not have $500,000 to invest,  but many would weigh in this feature when considering whit what company to open their portfolio.
 
@@ -61,5 +59,6 @@ Wealthfront has the advantage in that they are already thinking about Socially R
 * <https://www.bloomberg.com/profile/company/0276674D:US>
 * <https://www.nerdwallet.com/blog/investing/wealthfront-vs-betterment/>
 * <https://www.investopedia.com/tech/how-fintech-disrupting-wealth-management/>
+* <https://revenuesandprofits.com/fintech-and-wealth-management/>
 
 
