@@ -51,8 +51,10 @@ The world i rapidly changing, and before people were only interested about makin
 Wealthfront has the advantage in that they are already thinking about Socially Responsible Investing, now they just have to make it available to younger people who are the most impacted by the new changing world. Young investors who make up most of Wealthfront's customers do not have $500,000 to invest,  but many would weigh in this feature when considering whit what company to open their portfolio.
 
 ## Work Cited
-<https://www.moneyunder30.com/betterment-vs-wealthfront)>
-<https://www.wealthfront.com/origin>
-<https://www.nerdwallet.com/reviews/investing/advisors/wealthfront>
-<https://my.apps.factset.com/viewer/?_doc_id=202009020859pr_news_uspr_____sf13340&_doc_date=20200902&_doc_product=PRN&_doc_docfn=U2FsdGVkX1%2BMCD4Sw2ASvthNkEd4ActERkjmvxlOSZx90kDGonhAeVVzhp0fUizx4aD5bztrxCN7Ejr37Dq5q7RmHvkimX03tA90dajgYJi1GOk8UNbMDvO9Xo7SFJLP&_doc_title=Wealthfront%20Launches%20First%20Self-Driving%20Money%E2%84%A2%20Service&_app_id=CSINews&_appSesGUID=2c0f143c7cb3-6ce5-9879-5488-bc201600128035011>
+* <https://www.moneyunder30.com/betterment-vs-wealthfront)>
+* <https://www.wealthfront.com/origin>
+* <https://www.nerdwallet.com/reviews/investing/advisors/wealthfront>
+* <https://my.apps.factset.com/viewer/?_doc_id=202009020859pr_news_uspr_____sf13340&_doc_date=20200902&_doc_product=PRN&_doc_docfn=U2FsdGVkX1%2BMCD4Sw2ASvthNkEd4ActERkjmvxlOSZx90kDGonhAeVVzhp0fUizx4aD5bztrxCN7Ejr37Dq5q7RmHvkimX03tA90dajgYJi1GOk8UNbMDvO9Xo7SFJLP&_doc_title=Wealthfront%20Launches%20First%20Self-Driving%20Money%E2%84%A2%20Service&_app_id=CSINews&_appSesGUID=2c0f143c7cb3-6ce5-9879-5488-bc201600128035011>
+* <https://www.roboadvisorpros.com/wealthfront-vs-vanguard-which-robo-advisor-best/>
+* <https://www.bloomberg.com/news/articles/2020-03-30/robo-advisers-gain-new-younger-clients-amid-market-turmoil>
 
